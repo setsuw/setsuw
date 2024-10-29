@@ -1,5 +1,4 @@
-will make later
-
-i hope my contributions mean something
-
-still learning how github works so sorry if i seem a little incompetent at times
+https://img.shields.io/badge/autism-included-green
+https://img.shields.io/badge/skid-in_denial-red
+https://img.shields.io/badge/learning-very_slowly-blue
+https://img.shields.io/badge/gambling-addicted-orange
